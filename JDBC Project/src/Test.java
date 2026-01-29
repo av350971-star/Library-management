@@ -22,6 +22,7 @@ public class Test {
         ps.close();
         con.close();
 
+        
         System.out.println("Table created successfully");
     }
 }
